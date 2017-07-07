@@ -1,0 +1,638 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>福贝金服 - 信服人生，福贝金服</title>
+<meta name="keywords" content="福贝金服" />
+<meta name="description" content="福贝金服提供低风险,高收益,全免费,便捷的线上投资理财服务.公司以风险管控体系为核心,100%本息担保,第三方资金托管,随时可赎回,保障资金安全。" />
+<meta property="csaiapi" content="6ea9ab1baa0efb9e" />
+<link rel="icon" href="/images/favicon.ico" />
+<link href="/Content/css/20161129.css" rel="stylesheet" />
+<link href="/Content/jBox/Skins/Blue/jbox.css" rel="stylesheet" />
+<script src="/Content/scripts/jquery-1.8.2.min.js"></script>
+<script src="/Content/jBox/jquery.jBox-2.3.min.js"></script>
+</head>
+<body>
+<link href="/Content/css/top.css" rel="stylesheet" />
+<div id="top" class="clearfix">
+<div class="w1200">
+<ul class="service fl">
+<li><span>客服热线：400-0755-533</span></li>
+<li><span>服务时间：09:00-21:00</span></li>
+</ul>
+<ul class="concern fl">
+<li>
+<span>关注我们：</span>
+<a class="wechat" title="微信订阅号" data-method="OpenPop" data-object="#dyh-wrap"></a>
+<a class="blog" title="新浪微博" href="http://weibo.com/5343070851/" target="_blank"></a>
+<a class="qq" title="在线客服" href="http://wpa.b.qq.com/cgi/wpa.php?ln=1&amp;key=XzkzODAyOTkwOV8yMDk4ODhfNDAwMDc1NTUzM18yXw" target="_blank"></a>
+</li>
+</ul>
+<ul class="other fr">
+<li class="fore1"><div class="dt"><a href="/login">立即登录</a></div></li>
+<li class="spacer"></li>
+<li class="fore2"><div class="dt"><a href="/signup/">免费注册</a></div></li>
+<li class="spacer"></li>
+<li class="fore5"><div class="dt top-icon"><i class="icon-phone"></i><a href="javascript:void(0);" data-method="OpenPop" data-object="#app-wrap">手机互金</a></div></li>
+<li class="spacer"></li>
+<li class="fore4"><div class="dt"><a href="javascript:void(0);" onclick="alert('暂未开通');">社区论坛</a></div></li>
+<li class="spacer"></li>
+<li class="fore3"><div class="dt"><a href="/guide/">新手指引</a></div></li>
+</ul>
+</div>
+</div>
+<div id="header" class="clearfix">
+<div class="w1200">
+<ul class="fl">
+<li><a id="logo" href="/home/index"></a></li>
+</ul>
+<ul class="menu fr">
+<li><a href="/home/index">首页</a></li>
+<li><a href="/invest/">我要投资</a></li>
+<li><a href="/shop/index">积分商城</a></li>
+<li><a href="/security/">安全保障</a></li>
+<li><a href="/contact/">关于我们</a></li>
+<li><a href="/godService/home">我的账户</a></li>
+</ul>
+</div>
+</div>
+<div id="app-wrap" class="pop-box">
+<a href="javascript:void(0)" class="close" data-method="ClosePop">X</a>
+<div class="image-warp">
+<div class="thumbnail">
+<img src="/images/codeandroid.png" width="200" />
+</div>
+<p>Android</p>
+</div>
+<div class="image-warp">
+<div class="thumbnail">
+<img src="/images/codeios.png" width="200" />
+</div>
+<p>IOS</p>
+</div>
+</div>
+<script type="text/javascript">
+    $(function () {
+        $("#header .menu a").eq(0).addClass("active");
+    })
+</script>
+<div class="Toptip">
+<a href="http://wpa.b.qq.com/cgi/wpa.php?ln=1&amp;key=XzkzODAyOTkwOV8yMDk4ODhfNDAwMDc1NTUzM18yXw" target="_blank">
+<img src="/Content/images/index/tips_02.png" />
+<label>在线客服</label>
+</a>
+<a id="imgWX" style="cursor: pointer;" data-method="OpenPop" data-object="#dyh-wrap">
+<img src="/Content/images/head/tips_03.png" />
+<label>微信订阅号</label>
+</a>
+<a href="/God/Calculators">
+<img src="/Content/images/index/tips_03.png" />
+<label>计算工具</label>
+</a>
+<a data-method="GoTop" href="javascript:;">
+<img src="/Content/images/index/tips_04.png" />
+<label>回到顶部</label>
+</a>
+</div>
+<div id="dyh-wrap" class="pop-box">
+<div class="close" data-method="ClosePop">X</div>
+<div class="image-warp">
+<div class="thumbnail">
+<img src="/Content/images/w_02.png" width="200" />
+</div>
+<p>微信订阅号</p>
+</div>
+</div>
+<script src="/Content/scripts/jquery.SuperSlide.2.1.1.js"></script>
+<link href="/Content/shuang12/12.css" rel="stylesheet" />
+<div class="banner">
+<div id="slideBox" class="slideBox">
+<div class="hd">
+<ul>
+<li class=""></li>
+<li class=""></li>
+<li class=""></li>
+<li class=""></li>
+</ul>
+</div>
+<div class="bd">
+<ul>
+<li style="background:url(//www.qmtjr.com/AD/636315787015673828.jpg) center 0 no-repeat;">
+</li>
+<li style="background:url(//www.qmtjr.com/AD/636301184551361539.jpg) center 0 no-repeat;">
+</li>
+<li style="background:url(//www.qmtjr.com/AD/636277888616321097.jpg) center 0 no-repeat;">
+</li>
+<li style="background:url(//www.qmtjr.com/AD/636222635321503730.png) center 0 no-repeat;">
+<a href="http://www.qmtjr.com/%E8%BF%90%E8%90%A5%E6%8A%A5%E5%91%8A/2016/index.html" target="_blank"></a>
+</li>
+</ul>
+</div>
+</div>
+<script type="text/javascript">jQuery(".slideBox").slide({ mainCell: ".bd ul", effect: "fold", autoPlay: true, interTime: 6000 });</script>
+</div>
+<div class="statistics w1200">
+<div class="statistics-warp">
+<div class="statistics-title">您好，欢迎来到福贝金服！</div>
+<div class="statistics-content">
+<div class="tshow">
+<h2>累计注册用户（人）</h2>
+<p>40202</p>
+<h2>累计投资金额（元）</h2>
+<p>212,591,591.54</p>
+<h2 style="padding-top:13px;">为投资人赚取收益（元）</h2>
+<p>5,767,044.76</p>
+<a class="btnlink btn-login" href="/signup/">免费注册</a>
+<span>已有账户？</span><a style="color:white;font-size:14px;" href="/login">立即登录</a>
+</div>
+</div>
+</div>
+</div>
+<div class="w1200 bg-white">
+<div class="advantage clearfix">
+<div class="advantage-item">
+<div class="picture">
+<img src="/Content/images/20161229/advantage_01.png" />
+</div>
+<div class="text">
+<p>低门槛、高收益</p>
+<p>100元起投</p>
+</div>
+</div>
+<div class="advantage-item">
+<div class="picture">
+<img src="/Content/images/20161229/advantage_02.png" />
+</div>
+<div class="text">
+<p>本息无忧</p>
+<p>1000万风险备付金</p>
+</div>
+</div>
+<div class="advantage-item">
+<div class="picture">
+<img src="/Content/images/20161229/advantage_03.png" />
+</div>
+<div class="text">
+<p>资金安全</p>
+<p>第三方支付平台托管</p>
+</div>
+</div>
+<div class="advantage-item" style="border:none;">
+<div class="picture">
+<img src="/Content/images/20161229/advantage_04.png" />
+</div>
+<div class="text">
+<p>专业团队、丰富实操</p>
+<p>华为小牛平安精英加盟</p>
+</div>
+</div>
+</div>
+</div>
+<div class="w1200 bg-white">
+<div class="notices clearfix">
+<div class="fl">
+<i class="icon-notice"></i>
+</div>
+<div class="fl">
+<div class="notices-list">
+<ul>
+<li><a href="/help/detail/680.html">福贝金服新版网站上线公告 </a></li>
+<li><a href="/help/detail/679.html">【新标预告】2017-07-03 14：10发布宝盈通12月标</a></li>
+<li><a href="/help/detail/678.html">【新标预告】2017-07-04 16：50发布宝盈通3月标</a></li>
+<li><a href="/help/detail/676.html">2017年端午节放假通知</a></li>
+<li><a href="/help/detail/648.html">玩赚“五一”----投资红包领不停！</a></li>
+<li><a href="/help/detail/645.html">2017年劳动节放假通知</a></li>
+</ul>
+</div>
+</div>
+<div class="fr">
+<a class="notices-more" href="/help/">更多&gt;&gt;</a>
+</div>
+<script type="text/javascript">jQuery(".notices").slide({ mainCell: ".notices-list ul", autoPage: true, effect: "top", autoPlay: true, interTime: 2000 });</script>
+</div>
+</div>
+<div class="w1200 clearfix" style="display: none;">
+<div class="fl line experience">
+<div class="fl introduction">
+<p class="title">新手体验</p>
+<i class="icon-up"></i>
+<i class="icon-down"></i>
+</div>
+<div class="fl project-list bg-white">
+</div>
+</div>
+<div class="fr new-guide" style="margin-top:5px;">
+<a href="">
+<img src="/Content/images/20161229/greenhand.jpg" />
+</a>
+</div>
+</div>
+<div class="w1200 clearfix" style="margin-top:22px;">
+<div class="line line-byt ">
+<div class="fl">
+<div class="fl introduction">
+<p class="title">宝盈通</p>
+<div class="split"></div>
+<div class="text">
+<p class="fl">黄金理财</p>
+<p class="fr">实物现金</p>
+</div>
+<div class="text">
+<p class="fl">双重保障</p>
+<p class="fr">收益稳健</p>
+</div>
+<img src="/Content/images/20161229/xiaozhu_08.png" />
+<a class="more" href="/invest">更多<span style="font-size:19px;">&gt;&gt;</span></a>
+<i class="icon-up"></i>
+<i class="icon-down"></i>
+</div>
+</div>
+<div class="project-list fl">
+<div class="lineItem">
+<div class="title">宝盈通(约) BYTF20170707001</div>
+<div class="creditType">按月付息到期还本</div>
+<div class="other clearfix">
+<table>
+<tr>
+<td class="td1">
+<h3>5.0万</h3>
+<p>投资额度</p>
+</td>
+<td class="td2">
+<h3>12个月</h3>
+<p>项目期限</p>
+</td>
+<td class="td3">
+<h3>11%</h3>
+<p>年化利率</p>
+</td>
+<td class="td4">
+<div id="processingbar01" class="processingbar"><font>0.00%</font></div>
+<p>投资进度</p>
+</td>
+<td class="td5" style="position:relative;">
+<a class="btn" href="/Credit/Project/2299">立即投标</a>
+<p>剩余可投：50,000.00元</p>
+</td>
+</tr>
+</table>
+</div>
+</div>
+<div class="lineItem">
+<div class="title">宝盈通 BYTC20170706001</div>
+<div class="creditType">按月付息到期还本</div>
+<div class="other clearfix">
+<table>
+<tr>
+<td class="td1">
+<h3>10.0万</h3>
+<p>投资额度</p>
+</td>
+<td class="td2">
+<h3>3个月</h3>
+<p>项目期限</p>
+</td>
+<td class="td3">
+<h3>9%</h3>
+<p>年化利率</p>
+</td>
+<td class="td4">
+<div id="processingbar01" class="processingbar"><font>27.36%</font></div>
+<p>投资进度</p>
+</td>
+<td class="td5" style="position:relative;">
+<a class="btn" href="/Credit/Project/2295">立即投标</a>
+<p>剩余可投：72,643.00元</p>
+</td>
+</tr>
+</table>
+</div>
+</div>
+<div class="lineItem">
+<div class="title">宝盈通(约) BYTD20170707001</div>
+<div class="creditType">按月付息到期还本</div>
+<div class="other clearfix">
+<table>
+<tr>
+<td class="td1">
+<h3>10.0万</h3>
+<p>投资额度</p>
+</td>
+<td class="td2">
+<h3>6个月</h3>
+<p>项目期限</p>
+</td>
+<td class="td3">
+<h3>10%</h3>
+<p>年化利率</p>
+</td>
+<td class="td4">
+<div id="processingbar01" class="processingbar"><font>100.00%</font></div>
+<p>投资进度</p>
+</td>
+<td class="td5" style="position:relative;">
+<a class="btn" style="background-color:#c8c8c8;" href="/Credit/Project/2298">还款中</a>
+<p>剩余可投：0.00元</p>
+</td>
+</tr>
+</table>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="w1200 clearfix" style="margin-top:22px;margin-bottom:22px;">
+<div class="line line-pyt">
+<div class="fl">
+<div class="fl introduction">
+<p class="title">银票通</p>
+<div class="split"></div>
+<div class="text">
+<p class="fl">银承汇票</p>
+<p class="fr">安全稳健</p>
+</div>
+<div class="text">
+<p class="fl">周转灵活</p>
+<p class="fr">投资无忧</p>
+</div>
+<img src="/Content/images/20161229/huojian_15.png" />
+<a class="more" href="/invest">更多<span style="font-size:19px;">&gt;&gt;</span></a>
+<i class="icon-up"></i>
+<i class="icon-down"></i>
+</div>
+</div>
+<div class="project-list fl">
+<div class="lineItem">
+<div class="title">银票通  YPT20160208006</div>
+<div class="creditType">到期一次性还本付息</div>
+<div class="other clearfix">
+<table>
+<tr>
+<td class="td1">
+<h3>10万</h3>
+<p>投资额度</p>
+</td>
+<td class="td2">
+<h3>1个月</h3>
+<p>项目期限</p>
+</td>
+<td class="td3">
+<h3>8%</h3>
+<p>年化利率</p>
+</td>
+<td class="td4">
+<div id="processingbar01" class="processingbar"><font>100.00%</font></div>
+<p>投资进度</p>
+</td>
+<td class="td5">
+<a class="btn" style="background-color:#c8c8c8;" href="/Credit/Project/680">还款完成</a>
+<p>剩余可投：0.00元</p>
+</td>
+</tr>
+</table>
+</div>
+</div>
+<div class="lineItem">
+<div class="title">银票通  YPT20160208005</div>
+<div class="creditType">到期一次性还本付息</div>
+<div class="other clearfix">
+<table>
+<tr>
+<td class="td1">
+<h3>10万</h3>
+<p>投资额度</p>
+</td>
+<td class="td2">
+<h3>1个月</h3>
+<p>项目期限</p>
+</td>
+<td class="td3">
+<h3>8%</h3>
+<p>年化利率</p>
+</td>
+<td class="td4">
+<div id="processingbar01" class="processingbar"><font>100.00%</font></div>
+<p>投资进度</p>
+</td>
+<td class="td5">
+<a class="btn" style="background-color:#c8c8c8;" href="/Credit/Project/679">还款完成</a>
+<p>剩余可投：0.00元</p>
+</td>
+</tr>
+</table>
+</div>
+</div>
+<div class="lineItem">
+<div class="title">银票通  YPT20160208004</div>
+<div class="creditType">到期一次性还本付息</div>
+<div class="other clearfix">
+<table>
+<tr>
+<td class="td1">
+<h3>10万</h3>
+<p>投资额度</p>
+</td>
+<td class="td2">
+<h3>1个月</h3>
+<p>项目期限</p>
+</td>
+<td class="td3">
+<h3>8%</h3>
+<p>年化利率</p>
+</td>
+<td class="td4">
+<div id="processingbar01" class="processingbar"><font>100.00%</font></div>
+<p>投资进度</p>
+</td>
+<td class="td5">
+<a class="btn" style="background-color:#c8c8c8;" href="/Credit/Project/678">还款完成</a>
+<p>剩余可投：0.00元</p>
+</td>
+</tr>
+</table>
+</div>
+</div>
+</div>
+</div>
+</div>
+<script src="/Content/js/cycle.js"></script>
+<script src="/Content/js/raphael.js"></script>
+<div class="w1200 bg-white clearfix" style="margin-bottom: 27px;">
+<div class="panel news fl">
+<div class="panel-title clearfix">
+<h3>新闻资讯</h3>
+<a href="/news/">更多<span style="font-size:17px;">&gt;&gt;</span></a>
+</div>
+<div class="panel-content">
+<div class="nitem">
+<a href="/news/detail/686.html">
+<img src="//www.qmtjr.com/Article/636347906821259765.jpg" />
+</a><p>私募新规最新解读</p>
+
+</div>
+<div class="nitem">
+<a href="/news/detail/685.html">
+<img src="//www.qmtjr.com/Article/636347901063251953.jpg" />
+</a><p>2017年上半年新上线银行存管平台</p>
+
+</div>
+</div>
+</div>
+<div class="panel notice fl">
+<div class="panel-title">
+<h3>平台公告</h3>
+<a href="/help/">更多<span style="font-size:17px;">&gt;&gt;</span></a>
+</div>
+<div class="panel-content" style="height: 176px;overflow: hidden;">
+<ul style="margin-top:-3px;">
+<li>
+<a href="/help/detail/680.html"> 福贝金服新版网站上线公告  <span class="date"> 2017-06-14</span></a>
+</li>
+<li>
+<a href="/help/detail/679.html"> 【新标预告】2017-07-03 14：10发布宝盈通... <span class="date"> 2017-06-05</span></a>
+</li>
+<li>
+<a href="/help/detail/678.html"> 【新标预告】2017-07-04 16：50发布宝盈通... <span class="date"> 2017-05-31</span></a>
+</li>
+<li>
+<a href="/help/detail/676.html"> 2017年端午节放假通知 <span class="date"> 2017-05-26</span></a>
+</li>
+<li>
+<a href="/help/detail/648.html"> 玩赚“五一”----投资红包领不停！ <span class="date"> 2017-04-27</span></a>
+</li>
+<li>
+<a href="/help/detail/645.html"> 2017年劳动节放假通知 <span class="date"> 2017-04-25</span></a>
+</li>
+</ul>
+</div>
+</div>
+</div>
+<div class="w1200 bg-white clearfix" style="margin-bottom:30px;">
+<div class="panel partner  fl">
+<div class="panel-title">
+<h3>合作伙伴</h3>
+<a href="/partner/">更多<span style="font-size:17px;">&gt;&gt;</span></a>
+</div>
+<div class="panel-content bd">
+<a target="_blank" href="">
+<img style="width: 100%;height: 100%;" src="//www.qmtjr.com/AD/636201584233560838.png" />
+</a>
+<a target="_blank" href="">
+<img style="width: 100%;height: 100%;" src="//www.qmtjr.com/AD/636201580405122816.png" />
+</a>
+<a target="_blank" href="">
+<img style="width: 100%;height: 100%;" src="//www.qmtjr.com/AD/636201578485703410.png" />
+</a>
+<a target="_blank" href="">
+<img style="width: 100%;height: 100%;" src="//www.qmtjr.com/AD/636322681275722656.jpg" />
+</a>
+<a class="last" target="_blank" href="">
+<img style="width: 100%;height: 100%;" src="//www.qmtjr.com/AD/636201578997617598.png" />
+</a>
+<a target="_blank" href="">
+<img style="width: 100%;height: 100%;" src="//www.qmtjr.com/AD/636229395655431672.jpg" />
+</a>
+</div>
+</div>
+</div>
+<script type="text/javascript">jQuery(".partner").slide({ mainCell: ".bd", autoPlay: true, effect: "leftMarquee", interTime: 50, vis: 6, trigger: "click" });</script>
+<div id="footer" class="clearfix">
+<div class="w1200">
+<div class="links fl">
+<dl>
+<dt class="f1">新手指南</dt>
+<dd><a href="/Article/Index?tid=3">如何注册</a></dd>
+<dd><a href="/Article/Index?tid=6">如何投资</a></dd>
+<dd><a href="/Article/Index?tid=4">账户问题</a></dd>
+<dd><a href="/Article/Index?tid=1">帮助中心</a></dd>
+</dl>
+<dl>
+<dt class="f2">怎么理财</dt>
+<dd><a href="/Article/Index?tid=6">如何投资</a></dd>
+<dd><a href="/Article/Index?tid=5">充值提现</a></dd>
+<dd><a href="/Article/Detail/68?tid=8">收费标准</a></dd>
+<dd><a href="/invest/">理财列表</a></dd>
+</dl>
+<dl>
+<dt class="f3">关于我们</dt>
+<dd><a href="/about/">公司介绍</a></dd>
+<dd><a href="/Article/Index?tid=1">平台公告</a></dd>
+<dd><a href="/laws/">法律政策</a></dd>
+<dd><a href="/contact/">联系我们</a></dd>
+</dl>
+<dl>
+<dt class="f4">诚信保障</dt>
+<dd><a href="/Article/Detail/67?tid=8">数据安全</a></dd>
+<dd><a href="/Article/Detail/66?tid=8">隐私安全</a></dd>
+<dd><a href="/Article/Detail/64?tid=8">资金安全</a></dd>
+<dd><a href="/Article/Index?tid=8">安全保障</a></dd>
+</dl>
+</div>
+<div class="service fl">
+<div class="sitem clearfix" style="margin-bottom:30px;">
+<div class="fl">
+<img src="/Content/images/20161229/kf_01.png" />
+</div>
+<div class="fl">
+<p>客服热线</p>
+<h3>400-0755-533</h3>
+</div>
+</div>
+<div class="sitem clearfix">
+<div class="fl">
+<img src="/Content/images/20161229/kf_02.png" />
+</div>
+<div class="fl">
+<p>QQ群</p>
+<h3>219420859</h3>
+</div>
+</div>
+</div>
+<div class="qrCode fr">
+<div class="wxin1"><img src="/Content/images/gfwb.png" width="113" /><p>官方微博</p></div>
+<div class="wxin1"><img src="/Content/images/w_02.png" width="113" /><p>微信订阅号</p></div>
+</div>
+</div>
+</div>
+<div id="bottom" class="clearfix">
+<div class="w1200">
+<div class="copyright fl">
+<p><a href="http://www.miitbeian.gov.cn/publish/query/indexFirst.action" target="_blank" style="color: #FEC63B;">粤ICP备14078272号</a>&nbsp;|&nbsp;© 2014  All rights reserved</p>
+<p>深圳市前海全民通互联网金融服务有限公司&nbsp;|&nbsp;版权所有</p>
+</div>
+<div class="notarize fr">
+<a href="http://szcert.ebs.org.cn/8a1b0ced-4b94-4b7a-ab68-d733836c868d" target="_blank">
+<img src="/Content/images/bot01.png" style="height:41px;" />
+</a>
+<a href="https://ss.knet.cn/verifyseal.dll?sn=e14120844030056663zvca000000&amp;ct=df&amp;a=1&amp;pa=0.025896529044035388" target="_blank">
+<img src="/Content/images/bot02.png" style="height:41px;" />
+</a>
+<a href="http://www.anquan.org/authenticate/cert/?site=www.qmtjr.com&amp;at=realname" target="_blank">
+<img src="/Content/images/bot03.png" style="height:41px;" />
+</a>
+<a href="https://trustsealinfo.websecurity.norton.com/splash?form_file=fdf/splash.fdf&amp;dn=www.qmtjr.com&amp;lang=zh_cn" target="_blank">
+<img src="/Content/images/bot04.png" style="height:41px;" />
+</a>
+</div>
+</div>
+</div>
+<script type="text/javascript">
+        $(function () {
+            $('[data-method="OpenPop"]').on("click", function () {
+                var pop = $(this).attr("data-object");
+                $("&lt;div&gt;&lt;/div&gt;").attr("id", "popup-overlay").appendTo("body");
+                $(pop).show();
+            })
+
+            $('[data-method="ClosePop"]').on("click", function () {
+                $("#popup-overlay").remove();
+                $(this).closest(".pop-box").hide();
+            })
+
+            $('[data-method="GoTop"]').on("click", function () {
+                $('body,html').animate({ scrollTop: 0 }, 1000);
+            })
+        })
+    </script>
+</body>
+</html>
